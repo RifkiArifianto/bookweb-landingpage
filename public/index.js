@@ -19,7 +19,7 @@ import BgImg from "./background.png";
 import IGImg from "./instagram.png";
 import FBImg from "./facebook.png";
 import StarON from "./staron.png";
-import StarOFF from "./StarOFF.png";
+import StarOFF from "./staroff.png";
 import Kutip from "./kutip.png";
 
 export {
